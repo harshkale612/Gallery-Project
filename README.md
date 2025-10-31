@@ -27,19 +27,6 @@ This project demonstrates **API fetching**, **pagination**, **state management**
 
 ---
 
-## 📦 Installation & Setup
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/gallery-project.git
-cd gallery-project
-npm install
-npm run dev
-```
-
----
-
 ## 📂 Folder Structure
 
 ```
